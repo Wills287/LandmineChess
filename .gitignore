@@ -1,5 +1,6 @@
 .vs/
 LandmineChess/bin/
 LandmineChess/obj/
+LandmineChess.Tests/bin/
 LandmineChess.Tests/obj/
 packages/
